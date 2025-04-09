@@ -3,7 +3,7 @@ Hybrid content/collaborative filtering with Dash dashboard, sentiment analysis, 
 
 # Amazon Product Recommender 🛍️
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/your-repo-link](https://github.com/Vibhadsouza26/Amazon-Product-Recommender/blob/main/Amazon2.0.ipynb
-))
+)
 
 A simple recommendation system with interactive dashboard for product analysis (runs fully in Google Colab)
 
