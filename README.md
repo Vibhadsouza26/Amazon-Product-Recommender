@@ -2,7 +2,8 @@
 Hybrid content/collaborative filtering with Dash dashboard, sentiment analysis, and market insights. Built with Python, LightFM, and Plotly for personalized recommendations, price trends, and customer sentiment tracking. Scalable solution for e-commerce analytics 📊🚀
 
 # Amazon Product Recommender 🛍️
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo-link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/your-repo-link](https://github.com/Vibhadsouza26/Amazon-Product-Recommender/blob/main/Amazon2.0.ipynb
+))
 
 A simple recommendation system with interactive dashboard for product analysis (runs fully in Google Colab)
 
@@ -39,9 +40,8 @@ A simple recommendation system with interactive dashboard for product analysis (
 ![image](https://github.com/user-attachments/assets/091c4470-2536-42d9-b2ac-57a6b4139351)
 
 
-
-
+ 
 Created by **Vibha Karen Dsouza**  
-[LinkedIn]((https://linkedin.com/in/dsouzavibha)) | 
+[GitHub](https://github.com/Vibhadsouza26) | [LinkedIn](https://linkedin.com/in/dsouzavibha)
 
 
